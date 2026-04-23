@@ -7,7 +7,7 @@ https://www.mlb.com/news/statcast-introduces-catch-probability-for-2017-c2178023
 
 Statcast defines Catch Probability as the likelihood that a fielder successfully records an out on a batted ball. Through research, I identified the primary factors influencing this metric:
 
-Distance Covered (how far the fielder must travel)
+Distance Covered (how far the fielder must travel)\
 Time to Catch Opportunity (Hang Time)
 Direction of Movement (forward, backward, lateral)
 Proximity to the fence https://www.mlb.com/news/catch-probability-updated-to-account-for-walls-c269814542
