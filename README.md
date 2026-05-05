@@ -28,6 +28,27 @@ events (out vs hit)\
 
 https://www.kaggle.com/datasets/s903124/mlb-statcast-data?
 
+April 29
+Read through MLB Statcast articles to understand what Catch Probability measures and what factors go into it, especially distance, hang time, and direction.
+
+April 30
+Looked more closely at how Statcast tracks batted balls and how raw tracking data is turned into useful metrics for evaluating defense.
+
+May 1
+Explored the Kaggle dataset and went through the columns to understand what each variable represents and which ones might be useful.
+
+May 2
+Decided to frame the project as predicting whether a ball is caught or not using a classification model.
+
+May 3
+Started cleaning the dataset by keeping only balls put into play and removing rows with missing values.
+
+May 4
+Set up the basic structure for the model, including defining the outcome variable and thinking about which inputs to use.
+
+May 5
+Added a few simple features based on the data (like estimated distance and general ball location) and finalized the plan to test a basic model like logistic regression or random forest.
+
 
 
 
