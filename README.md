@@ -78,7 +78,7 @@ This project creates a simplified version of MLB Statcast’s Catch Probability 
 
 The project compares two models: logistic regression and XGBoost, with XGBoost used as the main model because it can better recognize patterns in baseball data.
 
-##Key Features
+## Key Features
 
 The model uses several important features to make predictions:
 
@@ -124,11 +124,18 @@ I added the launch angle as a feature, which led to a significant increase in ac
 
 Here's a sample of a difficult catch and it's stats to plug into the model, to see if it passes the eye test:
 (Use baseball savant to find your own catches)
-https://baseballsavant.mlb.com/sporty-videos?playId=da11f02b-1f51-3ba9-a7c9-dc43cfe4db92 - Pete Crow-Armstrong's diving catch against the Cardinals
+https://baseballsavant.mlb.com/sporty-videos?playId=da11f02b-1f51-3ba9-a7c9-dc43cfe4db92 
+
+Pete Crow-Armstrong's diving catch against the Cardinals
+
 Launch angle: 14 degrees
+
 Bbdist (ball distance): 333 ft
+
 Fielder hit to: 8
+
 Near warning track: no
+
 Line Drive: yes
 
 
